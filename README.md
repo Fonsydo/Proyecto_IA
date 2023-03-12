@@ -1,1 +1,1 @@
-# Proyecto_IA
+# Proyecto Sistema de Recomendación de Películas
